@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "testmod:block/dildo_statue" },
+    "facing=east": { "model": "testmod:block/dildo_statue", "y": 90 },
+    "facing=south": { "model": "testmod:block/dildo_statue", "y": 180 },
+    "facing=west": { "model": "testmod:block/dildo_statue", "y": 270 }
+  }
+}
